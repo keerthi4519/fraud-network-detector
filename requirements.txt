@@ -1,0 +1,9 @@
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.2
+networkx==3.2.1
+plotly==5.18.0
+pyvis==0.3.2
+scikit-learn==1.3.2
+streamlit-agraph==0.0.45
+faker==22.0.0

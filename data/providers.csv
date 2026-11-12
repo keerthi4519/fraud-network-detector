@@ -1,0 +1,51 @@
+provider_id,provider_name,provider_type,specialty,license_number,license_status,license_expiry,state,average_billing,total_claim_volume,registered_date,risk_score,status
+PRV-000001,Quality Collision Center,Auto Repair,Towing,LIC-500806,active,2026-10-11,TX,1485.43,38,2021-10-19,12.39,active
+PRV-000002,Advanced Auto Body,Auto Repair,Paint,LIC-385422,active,2025-12-23,FL,508.12,56,2023-10-26,30.22,active
+PRV-000003,National Legal Services,Legal,Litigation,LIC-685512,active,2027-12-31,PA,372.76,64,2024-09-13,24.42,active
+PRV-000004,Advanced Collision Center,Auto Repair,Mechanical,LIC-133625,active,2026-04-24,OH,308.65,60,2024-10-01,4.35,active
+PRV-000005,Premier Testing Center,Diagnostic,MRI/CT,LIC-253439,active,2027-10-26,PA,382.29,62,2021-06-14,17.37,active
+PRV-000006,Advanced Testing Center,Diagnostic,X-Ray,LIC-122011,active,2026-08-08,MI,4040.57,45,2020-11-02,21.34,active
+PRV-000007,City Pharmacy,Pharmacy,Compounding,LIC-830883,active,2026-06-12,TX,823.34,49,2023-09-15,48.32,active
+PRV-000008,Premier Testing Center,Diagnostic,X-Ray,LIC-667671,active,2025-09-16,GA,544.57,47,2023-04-24,7.21,active
+PRV-000009,Quality Rehab Center,Rehabilitation,Speech Therapy,LIC-456049,active,2027-02-25,NY,1384.33,39,2023-04-06,15.17,active
+PRV-000010,Advanced Clinic,Medical,Emergency,LIC-927835,active,2027-12-11,TX,1519.98,48,2021-08-02,7.55,active
+PRV-000011,Metro Drug Store,Pharmacy,Retail,LIC-839552,active,2025-04-27,FL,657.51,49,2021-09-24,19.82,active
+PRV-000012,Metro Therapy Center,Rehabilitation,Occupational Therapy,LIC-585825,expired,2027-12-13,PA,363.58,54,2022-10-30,21.64,flagged
+PRV-000013,National Legal Services,Legal,Litigation,LIC-942373,active,2025-11-11,GA,5391.66,48,2023-04-16,15.33,active
+PRV-000014,Advanced & Associates,Legal,Personal Injury,LIC-300373,active,2027-01-01,IL,4707.28,54,2023-04-19,9.93,active
+PRV-000015,Premier Rehab Center,Rehabilitation,Physical Therapy,LIC-243094,active,2025-08-08,IL,4016.74,47,2023-12-07,7.04,active
+PRV-000016,City Recovery Services,Rehabilitation,Speech Therapy,LIC-267906,active,2025-10-05,MI,217.08,59,2024-01-15,18.51,active
+PRV-000017,Metro Drug Store,Pharmacy,Retail,LIC-536330,suspended,2027-07-21,MI,351.89,46,2023-04-12,7.26,flagged
+PRV-000018,Premier Therapy Center,Rehabilitation,Speech Therapy,LIC-700053,active,2025-01-06,IL,874.63,43,2023-09-28,19.02,active
+PRV-000019,National Testing Center,Diagnostic,MRI/CT,LIC-583688,active,2026-12-10,MI,1433.76,65,2023-02-16,4.43,active
+PRV-000020,City Therapy Center,Rehabilitation,Physical Therapy,LIC-847122,active,2026-01-29,CA,1953.66,42,2024-11-10,7.77,active
+PRV-000021,National Medical Group,Medical,Orthopedics,LIC-946025,revoked,2026-09-25,PA,780.05,47,2022-04-27,15.32,flagged
+PRV-000022,Elite Legal Services,Legal,General Practice,LIC-920293,active,2027-08-26,FL,1517.99,49,2021-08-05,11.03,active
+PRV-000023,Advanced Rehab Center,Rehabilitation,Occupational Therapy,LIC-689902,active,2027-01-09,TX,710.53,53,2021-06-12,2.99,active
+PRV-000024,National Recovery Services,Rehabilitation,Occupational Therapy,LIC-501247,active,2025-07-14,TX,717.06,44,2024-04-14,48.51,active
+PRV-000025,Advanced Testing Center,Diagnostic,Ultrasound,LIC-437457,active,2027-11-10,NY,560.89,49,2021-01-13,15.73,active
+PRV-000026,Quality Testing Center,Diagnostic,Laboratory,LIC-725406,active,2025-05-20,TX,151.49,61,2022-05-05,15.86,active
+PRV-000027,Trusted Diagnostics Lab,Diagnostic,Ultrasound,LIC-295269,active,2026-11-29,OH,2333.65,42,2020-06-06,24.5,active
+PRV-000028,City Recovery Services,Rehabilitation,Speech Therapy,LIC-621715,expired,2025-06-04,PA,2138.62,53,2020-07-17,20.22,flagged
+PRV-000029,National Rx Services,Pharmacy,Mail Order,LIC-459754,active,2025-05-22,CA,171.92,40,2023-04-15,49.72,active
+PRV-000030,National Diagnostics Lab,Diagnostic,Ultrasound,LIC-875859,active,2027-02-18,TX,1018.43,52,2022-01-18,38.05,active
+PRV-000031,Advanced Rx Services,Pharmacy,Mail Order,LIC-497359,active,2025-02-06,TX,97.2,28,2020-02-13,28.92,active
+PRV-000032,Trusted Law Group,Legal,Personal Injury,LIC-907113,active,2027-07-11,FL,3467.43,67,2023-01-25,21.61,active
+PRV-000033,Advanced Rx Services,Pharmacy,Retail,LIC-911272,active,2027-03-29,PA,711.73,51,2023-10-27,11.56,active
+PRV-000034,Advanced Health Services,Medical,General Practice,LIC-905339,active,2025-11-22,GA,6566.56,46,2023-01-02,19.8,active
+PRV-000035,Advanced Collision Center,Auto Repair,Glass Repair,LIC-807034,active,2025-11-03,TX,545.09,57,2022-08-12,13.3,active
+PRV-000036,Quality Medical Group,Medical,Neurology,LIC-586523,active,2027-08-26,IL,1833.88,40,2022-05-08,16.02,active
+PRV-000037,National Testing Center,Diagnostic,MRI/CT,LIC-217316,active,2026-07-09,IL,881.02,54,2021-06-17,26.58,active
+PRV-000038,National Therapy Center,Rehabilitation,Physical Therapy,LIC-998207,active,2027-07-06,NC,684.7,40,2020-10-11,17.17,active
+PRV-000039,Advanced Health Services,Medical,Chiropractic,LIC-579326,active,2026-09-27,NC,4098.04,44,2022-09-03,25.89,active
+PRV-000040,Advanced Rx Services,Pharmacy,Specialty,LIC-108908,active,2026-12-23,CA,678.17,36,2024-11-17,44.87,active
+PRV-000041,City Diagnostics Lab,Diagnostic,Ultrasound,LIC-304666,active,2025-09-19,CA,257.82,46,2020-03-25,11.51,active
+PRV-000042,National Recovery Services,Rehabilitation,Speech Therapy,LIC-902600,active,2027-11-30,OH,451.23,45,2021-10-01,9.68,active
+PRV-000043,Elite Auto Repair,Auto Repair,Mechanical,LIC-827528,expired,2026-01-13,NY,6573.09,49,2023-12-14,19.16,flagged
+PRV-000044,City Diagnostics Lab,Diagnostic,X-Ray,LIC-144633,active,2026-02-08,MI,6145.57,51,2020-07-20,37.6,active
+PRV-000045,Premier Rx Services,Pharmacy,Specialty,LIC-878432,active,2026-11-10,NY,50.99,48,2020-02-01,29.61,active
+PRV-000046,Metro Rx Services,Pharmacy,Retail,LIC-932020,active,2027-03-24,NC,1446.98,50,2021-11-18,3.68,active
+PRV-000047,National Diagnostics Lab,Diagnostic,Laboratory,LIC-691914,active,2025-01-11,NC,742.78,53,2021-11-13,11.88,active
+PRV-000048,National & Associates,Legal,General Practice,LIC-544657,active,2025-03-29,MI,9655.77,36,2024-03-08,18.16,active
+PRV-000049,Metro Recovery Services,Rehabilitation,Physical Therapy,LIC-129445,active,2026-03-12,TX,848.57,55,2021-06-30,25.06,active
+PRV-000050,Quality Therapy Center,Rehabilitation,Speech Therapy,LIC-278248,active,2026-11-23,CA,736.68,50,2020-01-16,28.21,active

@@ -1,0 +1,3 @@
+investigation_id,network_id,fraud_type,entity_count,opened_date,status,assigned_investigator,priority,estimated_loss,notes
+INVG-2026-000001,FNET-0001,shared_contact_network,4,2025-09-23,closed_cleared,INV-AGENT-013,Low,204645.3,Investigation into shared_contact_network involving 4 entities
+INVG-2026-000002,FNET-0002,shared_contact_network,6,2025-09-03,open,INV-AGENT-008,Medium,253166.35,Investigation into shared_contact_network involving 6 entities

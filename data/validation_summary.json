@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-11-12T16:49:14.806362",
+  "seed": 20261022,
+  "checks": [
+    {
+      "check": "claimants_pk_unique",
+      "passed": true,
+      "detail": "claimant_id unique: True, count: 200"
+    },
+    {
+      "check": "policies_pk_unique",
+      "passed": true,
+      "detail": "policy_id unique: True, count: 300"
+    },
+    {
+      "check": "claims_pk_unique",
+      "passed": true,
+      "detail": "claim_id unique: True, count: 501"
+    },
+    {
+      "check": "incidents_pk_unique",
+      "passed": true,
+      "detail": "incident_id unique: True, count: 450"
+    },
+    {
+      "check": "providers_pk_unique",
+      "passed": true,
+      "detail": "provider_id unique: True, count: 50"
+    },
+    {
+      "check": "invoices_pk_unique",
+      "passed": true,
+      "detail": "invoice_id unique: True, count: 601"
+    },
+    {
+      "check": "payments_pk_unique",
+      "passed": true,
+      "detail": "payment_id unique: True, count: 550"
+    },
+    {
+      "check": "claims_fk_policy",
+      "passed": true,
+      "detail": "Orphan claims: 1 (1 expected edge case)"
+    }
+  ],
+  "row_counts": {
+    "claimants": 200,
+    "policies": 300,
+    "claims": 501,
+    "incidents": 450,
+    "providers": 50,
+    "invoices": 601,
+    "payments": 550,
+    "edges": 758
+  },
+  "checksums": {
+    "claimants": "b0601e0eb5b70a3c4a445c7377bdf1e2",
+    "policies": "bcd3e469a1c6518380ebecd30b2e103a",
+    "claims": "2c9178361f6ccea1e1472740cea780c9"
+  }
+}

@@ -1,0 +1,451 @@
+incident_id,incident_type,incident_date,report_date,report_delay_days,severity,narrative,location_type,police_report_filed,witness_count,status
+INC-2026-000001,Vehicle Collision,2025-04-08,2025-04-12,4,Severe,Tree fell on property during severe thunderstorm.,Road/Highway,False,3,closed
+INC-2026-000002,Fire,2025-10-08,2025-10-08,0,Minor,Hail damage to vehicle and property during severe weather.,Commercial Property,False,0,under_investigation
+INC-2026-000003,Work Injury,2025-09-02,2025-09-09,7,Minor,"Burglar alarm triggered, window broken, items missing.",Parking Lot,False,1,verified
+INC-2026-000004,Vehicle Collision,2025-01-12,2025-01-16,4,Minor,Water pipe burst causing flooding in basement.,Public Space,False,1,under_investigation
+INC-2026-000005,Vandalism,2025-06-05,2025-06-06,1,Moderate,"Fell down stairs at commercial building, knee injury.",Public Space,True,1,reported
+INC-2026-000006,Fire,2025-04-02,2025-04-05,3,Severe,Hail damage to vehicle and property during severe weather.,Road/Highway,False,2,reported
+INC-2026-000007,Vandalism,2025-08-21,2025-08-23,2,Severe,Rear-ended at traffic light intersection during rush hour.,Commercial Property,False,0,verified
+INC-2026-000008,Water Damage,2024-02-12,2024-02-17,5,Minor,Water pipe burst causing flooding in basement.,Workplace,True,0,verified
+INC-2026-000009,Slip and Fall,2024-08-26,2024-08-29,3,Severe,Tree fell on property during severe thunderstorm.,Road/Highway,False,3,reported
+INC-2026-000010,Vehicle Collision,2024-02-19,2024-03-03,13,Severe,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,3,verified
+INC-2026-000011,Theft,2024-11-27,2024-12-04,7,Critical,"Vehicle broken into, electronics and personal items stolen.",Workplace,False,1,reported
+INC-2026-000012,Natural Disaster,2025-05-20,2025-05-20,0,Moderate,"Side collision at four-way stop, other driver ran sign.",Public Space,True,1,closed
+INC-2026-000013,Fire,2024-05-06,2024-05-08,2,Minor,"Fell down stairs at commercial building, knee injury.",Road/Highway,False,2,closed
+INC-2026-000014,Vehicle Collision,2025-09-21,2025-09-21,0,Minor,"Roof damaged during hurricane, interior water damage.",Residence,True,2,verified
+INC-2026-000015,Slip and Fall,2025-09-25,2025-09-30,5,Moderate,Hail damage to vehicle and property during severe weather.,Road/Highway,False,1,reported
+INC-2026-000016,Vandalism,2024-01-07,2024-01-16,9,Critical,"Fell down stairs at commercial building, knee injury.",Road/Highway,True,1,verified
+INC-2026-000017,Property Damage,2025-10-06,2025-10-08,2,Critical,Hail damage to vehicle and property during severe weather.,Public Space,True,3,under_investigation
+INC-2026-000018,Theft,2025-06-21,2025-06-25,4,Moderate,"Side collision at four-way stop, other driver ran sign.",Public Space,True,0,closed
+INC-2026-000019,Slip and Fall,2025-06-03,2025-06-05,2,Critical,"Burglar alarm triggered, window broken, items missing.",Commercial Property,True,0,verified
+INC-2026-000020,Fire,2025-09-05,2025-09-09,4,Moderate,Tree fell on property during severe thunderstorm.,Road/Highway,False,1,under_investigation
+INC-2026-000021,Work Injury,2024-12-17,2024-12-20,3,Minor,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,1,under_investigation
+INC-2026-000022,Property Damage,2024-09-15,2024-09-16,1,Severe,Hit by uninsured driver while parked at shopping center.,Parking Lot,False,3,reported
+INC-2026-000023,Water Damage,2025-07-30,2025-07-30,0,Severe,Workplace machinery malfunction caused hand injury.,Residence,True,1,under_investigation
+INC-2026-000024,Theft,2024-03-11,2024-03-11,0,Moderate,Pedestrian struck by vehicle at crosswalk.,Public Space,True,5,verified
+INC-2026-000025,Fire,2025-02-18,2025-03-03,13,Severe,"Kitchen fire caused by electrical fault, significant damage.",Public Space,False,2,verified
+INC-2026-000026,Theft,2024-09-19,2024-09-30,11,Moderate,Rear-ended at traffic light intersection during rush hour.,Workplace,True,4,verified
+INC-2026-000027,Water Damage,2025-03-29,2025-03-31,2,Severe,Rear-ended at traffic light intersection during rush hour.,Residence,True,1,reported
+INC-2026-000028,Fire,2024-07-29,2024-08-09,11,Minor,"Roof damaged during hurricane, interior water damage.",Public Space,False,2,closed
+INC-2026-000029,Natural Disaster,2024-02-18,2024-02-23,5,Moderate,Pedestrian struck by vehicle at crosswalk.,Road/Highway,True,4,under_investigation
+INC-2026-000030,Natural Disaster,2024-07-09,2024-07-10,1,Severe,"Slipped on wet floor in grocery store, injured back.",Public Space,True,4,reported
+INC-2026-000031,Vehicle Collision,2024-01-19,2024-01-22,3,Moderate,Multi-vehicle pile-up on highway during fog.,Parking Lot,True,1,under_investigation
+INC-2026-000032,Medical Injury,2024-02-12,2024-02-19,7,Severe,Water pipe burst causing flooding in basement.,Public Space,True,1,reported
+INC-2026-000033,Vandalism,2024-09-16,2024-09-19,3,Minor,Workplace machinery malfunction caused hand injury.,Parking Lot,False,0,verified
+INC-2026-000034,Theft,2024-06-06,2024-06-09,3,Critical,"Roof damaged during hurricane, interior water damage.",Road/Highway,False,1,verified
+INC-2026-000035,Natural Disaster,2024-11-14,2024-11-18,4,Severe,Pedestrian struck by vehicle at crosswalk.,Parking Lot,True,1,closed
+INC-2026-000036,Natural Disaster,2025-02-22,2025-02-24,2,Severe,"Slipped on wet floor in grocery store, injured back.",Road/Highway,False,0,closed
+INC-2026-000037,Water Damage,2025-09-08,2025-09-08,0,Minor,Hit by uninsured driver while parked at shopping center.,Public Space,True,3,reported
+INC-2026-000038,Fire,2025-07-31,2025-07-31,0,Minor,Hail damage to vehicle and property during severe weather.,Residence,True,1,closed
+INC-2026-000039,Slip and Fall,2025-03-02,2025-03-16,14,Severe,"Burglar alarm triggered, window broken, items missing.",Public Space,True,1,closed
+INC-2026-000040,Natural Disaster,2025-05-14,2025-05-19,5,Severe,Water pipe burst causing flooding in basement.,Parking Lot,True,1,under_investigation
+INC-2026-000041,Slip and Fall,2024-11-16,2024-11-16,0,Minor,Hail damage to vehicle and property during severe weather.,Public Space,True,3,reported
+INC-2026-000042,Slip and Fall,2024-02-02,2024-02-05,3,Moderate,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,True,6,verified
+INC-2026-000043,Natural Disaster,2025-07-29,2025-08-11,13,Severe,"Fell down stairs at commercial building, knee injury.",Residence,True,3,reported
+INC-2026-000044,Theft,2025-03-21,2025-03-24,3,Moderate,"Roof damaged during hurricane, interior water damage.",Parking Lot,False,2,under_investigation
+INC-2026-000045,Water Damage,2024-12-06,2024-12-15,9,Severe,"Burglar alarm triggered, window broken, items missing.",Public Space,True,1,verified
+INC-2026-000046,Natural Disaster,2025-01-05,2025-01-05,0,Critical,Workplace machinery malfunction caused hand injury.,Residence,True,1,verified
+INC-2026-000047,Medical Injury,2024-08-06,2024-08-10,4,Minor,"Burglar alarm triggered, window broken, items missing.",Road/Highway,False,2,reported
+INC-2026-000048,Theft,2024-12-03,2024-12-03,0,Minor,Hail damage to vehicle and property during severe weather.,Commercial Property,True,1,reported
+INC-2026-000049,Natural Disaster,2024-09-26,2024-09-26,0,Critical,"Roof damaged during hurricane, interior water damage.",Commercial Property,False,1,verified
+INC-2026-000050,Fire,2024-07-27,2024-07-29,2,Minor,"Roof damaged during hurricane, interior water damage.",Commercial Property,False,1,verified
+INC-2026-000051,Water Damage,2024-06-28,2024-07-01,3,Minor,Hail damage to vehicle and property during severe weather.,Parking Lot,True,1,closed
+INC-2026-000052,Fire,2024-08-07,2024-08-11,4,Minor,"Vehicle broken into, electronics and personal items stolen.",Residence,False,1,verified
+INC-2026-000053,Fire,2025-08-03,2025-08-03,0,Moderate,Rear-ended at traffic light intersection during rush hour.,Road/Highway,True,0,verified
+INC-2026-000054,Fire,2025-04-02,2025-04-02,0,Severe,Pedestrian struck by vehicle at crosswalk.,Parking Lot,True,0,closed
+INC-2026-000055,Slip and Fall,2024-01-10,2024-01-12,2,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,True,0,closed
+INC-2026-000056,Medical Injury,2025-02-17,2025-02-19,2,Severe,"Roof damaged during hurricane, interior water damage.",Workplace,True,3,reported
+INC-2026-000057,Natural Disaster,2024-12-08,2024-12-22,14,Moderate,"Fell down stairs at commercial building, knee injury.",Commercial Property,False,2,closed
+INC-2026-000058,Vandalism,2024-01-11,2024-01-14,3,Moderate,Pedestrian struck by vehicle at crosswalk.,Road/Highway,True,1,closed
+INC-2026-000059,Property Damage,2024-06-07,2024-06-13,6,Moderate,Workplace machinery malfunction caused hand injury.,Public Space,False,1,verified
+INC-2026-000060,Work Injury,2024-08-24,2024-08-29,5,Severe,Tree fell on property during severe thunderstorm.,Public Space,False,2,under_investigation
+INC-2026-000061,Work Injury,2025-09-20,2025-10-04,14,Minor,"Burglar alarm triggered, window broken, items missing.",Residence,False,1,verified
+INC-2026-000062,Vandalism,2024-02-12,2024-02-18,6,Minor,"Vehicle broken into, electronics and personal items stolen.",Public Space,False,0,under_investigation
+INC-2026-000063,Vandalism,2024-08-04,2024-08-07,3,Moderate,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,0,verified
+INC-2026-000064,Vehicle Collision,2024-07-25,2024-07-31,6,Moderate,"Vehicle broken into, electronics and personal items stolen.",Residence,False,1,closed
+INC-2026-000065,Natural Disaster,2025-10-07,2025-10-09,2,Minor,"Burglar alarm triggered, window broken, items missing.",Parking Lot,True,2,closed
+INC-2026-000066,Slip and Fall,2025-05-25,2025-05-25,0,Moderate,Rear-ended at traffic light intersection during rush hour.,Commercial Property,True,0,verified
+INC-2026-000067,Natural Disaster,2024-06-14,2024-06-18,4,Minor,Hit by uninsured driver while parked at shopping center.,Road/Highway,True,0,under_investigation
+INC-2026-000068,Vehicle Collision,2024-03-27,2024-03-27,0,Critical,"Kitchen fire caused by electrical fault, significant damage.",Residence,True,3,under_investigation
+INC-2026-000069,Medical Injury,2024-01-23,2024-01-24,1,Severe,Tree fell on property during severe thunderstorm.,Workplace,False,1,under_investigation
+INC-2026-000070,Work Injury,2025-03-30,2025-03-30,0,Moderate,Hail damage to vehicle and property during severe weather.,Workplace,True,1,under_investigation
+INC-2026-000071,Fire,2025-08-20,2025-08-24,4,Critical,Hail damage to vehicle and property during severe weather.,Road/Highway,True,1,verified
+INC-2026-000072,Water Damage,2025-01-21,2025-01-22,1,Critical,"Side collision at four-way stop, other driver ran sign.",Commercial Property,True,2,under_investigation
+INC-2026-000073,Vehicle Collision,2024-12-06,2024-12-14,8,Moderate,Rear-ended at traffic light intersection during rush hour.,Commercial Property,True,2,under_investigation
+INC-2026-000074,Vandalism,2024-12-06,2024-12-06,0,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,False,2,under_investigation
+INC-2026-000075,Fire,2024-09-17,2024-09-29,12,Minor,Water pipe burst causing flooding in basement.,Residence,True,1,under_investigation
+INC-2026-000076,Theft,2025-09-23,2025-09-23,0,Severe,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,False,4,verified
+INC-2026-000077,Slip and Fall,2025-06-01,2025-06-01,0,Moderate,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,0,under_investigation
+INC-2026-000078,Medical Injury,2024-10-29,2024-10-30,1,Moderate,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,1,closed
+INC-2026-000079,Fire,2024-08-23,2024-09-01,9,Moderate,"Side collision at four-way stop, other driver ran sign.",Parking Lot,True,2,closed
+INC-2026-000080,Medical Injury,2025-04-05,2025-04-06,1,Minor,"Burglar alarm triggered, window broken, items missing.",Public Space,True,2,closed
+INC-2026-000081,Vandalism,2025-07-05,2025-07-09,4,Minor,Pedestrian struck by vehicle at crosswalk.,Public Space,True,0,under_investigation
+INC-2026-000082,Water Damage,2025-03-22,2025-03-25,3,Severe,Multi-vehicle pile-up on highway during fog.,Residence,True,2,closed
+INC-2026-000083,Vandalism,2024-03-14,2024-03-14,0,Moderate,"Roof damaged during hurricane, interior water damage.",Parking Lot,True,3,reported
+INC-2026-000084,Natural Disaster,2024-09-03,2024-09-05,2,Minor,"Side collision at four-way stop, other driver ran sign.",Public Space,False,1,verified
+INC-2026-000085,Vehicle Collision,2025-01-04,2025-01-12,8,Moderate,Workplace machinery malfunction caused hand injury.,Parking Lot,False,0,verified
+INC-2026-000086,Property Damage,2025-04-19,2025-04-28,9,Moderate,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,2,verified
+INC-2026-000087,Slip and Fall,2024-03-22,2024-03-25,3,Moderate,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,1,under_investigation
+INC-2026-000088,Slip and Fall,2024-09-09,2024-09-21,12,Severe,Tree fell on property during severe thunderstorm.,Commercial Property,True,2,reported
+INC-2026-000089,Property Damage,2024-12-05,2024-12-05,0,Minor,Rear-ended at traffic light intersection during rush hour.,Workplace,True,0,under_investigation
+INC-2026-000090,Work Injury,2025-09-07,2025-09-19,12,Moderate,Hit by uninsured driver while parked at shopping center.,Commercial Property,True,3,under_investigation
+INC-2026-000091,Natural Disaster,2025-01-10,2025-01-15,5,Minor,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,1,under_investigation
+INC-2026-000092,Theft,2024-01-26,2024-02-01,6,Severe,Tree fell on property during severe thunderstorm.,Commercial Property,False,2,under_investigation
+INC-2026-000093,Theft,2024-05-05,2024-05-10,5,Moderate,"Roof damaged during hurricane, interior water damage.",Workplace,True,2,under_investigation
+INC-2026-000094,Fire,2025-04-02,2025-04-07,5,Severe,Water pipe burst causing flooding in basement.,Commercial Property,False,4,reported
+INC-2026-000095,Property Damage,2024-11-08,2024-11-10,2,Critical,Tree fell on property during severe thunderstorm.,Commercial Property,False,1,verified
+INC-2026-000096,Work Injury,2025-09-02,2025-09-03,1,Moderate,Hit by uninsured driver while parked at shopping center.,Workplace,False,3,verified
+INC-2026-000097,Natural Disaster,2024-05-12,2024-05-14,2,Severe,Pedestrian struck by vehicle at crosswalk.,Workplace,False,2,under_investigation
+INC-2026-000098,Property Damage,2024-03-01,2024-03-01,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Public Space,False,1,closed
+INC-2026-000099,Theft,2024-03-19,2024-03-26,7,Minor,"Side collision at four-way stop, other driver ran sign.",Road/Highway,False,1,reported
+INC-2026-000100,Slip and Fall,2025-04-08,2025-04-13,5,Critical,"Fell down stairs at commercial building, knee injury.",Public Space,False,0,verified
+INC-2026-000101,Theft,2025-07-18,2025-08-14,27,Moderate,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,False,0,under_investigation
+INC-2026-000102,Water Damage,2024-12-25,2024-12-31,6,Minor,"Burglar alarm triggered, window broken, items missing.",Residence,True,2,verified
+INC-2026-000103,Work Injury,2024-12-21,2024-12-24,3,Severe,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,0,closed
+INC-2026-000104,Medical Injury,2024-05-11,2024-05-23,12,Critical,"Side collision at four-way stop, other driver ran sign.",Residence,True,1,verified
+INC-2026-000105,Work Injury,2024-08-18,2024-08-18,0,Minor,Multi-vehicle pile-up on highway during fog.,Road/Highway,True,3,under_investigation
+INC-2026-000106,Property Damage,2025-04-27,2025-05-03,6,Moderate,Tree fell on property during severe thunderstorm.,Public Space,False,0,verified
+INC-2026-000107,Fire,2024-06-06,2024-06-14,8,Severe,"Vehicle broken into, electronics and personal items stolen.",Road/Highway,True,0,under_investigation
+INC-2026-000108,Vandalism,2024-03-07,2024-03-09,2,Severe,Workplace machinery malfunction caused hand injury.,Public Space,False,1,verified
+INC-2026-000109,Work Injury,2024-02-11,2024-02-14,3,Severe,"Roof damaged during hurricane, interior water damage.",Residence,True,6,under_investigation
+INC-2026-000110,Water Damage,2025-07-23,2025-08-07,15,Moderate,Multi-vehicle pile-up on highway during fog.,Road/Highway,True,3,under_investigation
+INC-2026-000111,Water Damage,2024-09-21,2024-09-21,0,Severe,"Burglar alarm triggered, window broken, items missing.",Public Space,True,3,closed
+INC-2026-000112,Medical Injury,2024-07-01,2024-07-11,10,Minor,Multi-vehicle pile-up on highway during fog.,Commercial Property,True,0,under_investigation
+INC-2026-000113,Property Damage,2025-07-04,2025-07-04,0,Moderate,Pedestrian struck by vehicle at crosswalk.,Parking Lot,True,1,closed
+INC-2026-000114,Natural Disaster,2025-10-05,2025-10-17,12,Severe,Water pipe burst causing flooding in basement.,Workplace,True,0,reported
+INC-2026-000115,Medical Injury,2024-10-09,2024-10-16,7,Minor,Pedestrian struck by vehicle at crosswalk.,Residence,False,0,verified
+INC-2026-000116,Medical Injury,2024-02-07,2024-02-11,4,Critical,Workplace machinery malfunction caused hand injury.,Public Space,True,1,verified
+INC-2026-000117,Natural Disaster,2025-05-15,2025-05-23,8,Moderate,Rear-ended at traffic light intersection during rush hour.,Commercial Property,False,0,closed
+INC-2026-000118,Fire,2025-04-27,2025-05-07,10,Minor,Tree fell on property during severe thunderstorm.,Workplace,True,0,under_investigation
+INC-2026-000119,Medical Injury,2024-11-12,2024-11-13,1,Severe,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,4,verified
+INC-2026-000120,Natural Disaster,2025-07-09,2025-07-19,10,Moderate,Hit by uninsured driver while parked at shopping center.,Residence,False,1,reported
+INC-2026-000121,Slip and Fall,2025-02-22,2025-02-26,4,Severe,Pedestrian struck by vehicle at crosswalk.,Road/Highway,True,2,reported
+INC-2026-000122,Fire,2024-08-31,2024-09-01,1,Minor,Pedestrian struck by vehicle at crosswalk.,Commercial Property,False,0,reported
+INC-2026-000123,Theft,2025-02-06,2025-02-09,3,Moderate,Hit by uninsured driver while parked at shopping center.,Workplace,True,1,under_investigation
+INC-2026-000124,Vehicle Collision,2025-06-29,2025-07-02,3,Moderate,"Slipped on wet floor in grocery store, injured back.",Parking Lot,False,1,under_investigation
+INC-2026-000125,Slip and Fall,2024-03-27,2024-03-30,3,Minor,Pedestrian struck by vehicle at crosswalk.,Residence,False,1,under_investigation
+INC-2026-000126,Vehicle Collision,2025-08-15,2025-08-17,2,Severe,Hit by uninsured driver while parked at shopping center.,Workplace,True,0,under_investigation
+INC-2026-000127,Fire,2024-07-02,2024-07-12,10,Severe,Rear-ended at traffic light intersection during rush hour.,Public Space,True,1,under_investigation
+INC-2026-000128,Slip and Fall,2024-09-16,2024-09-17,1,Moderate,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,3,reported
+INC-2026-000129,Property Damage,2025-02-09,2025-02-09,0,Minor,Tree fell on property during severe thunderstorm.,Road/Highway,True,1,verified
+INC-2026-000130,Vandalism,2024-12-12,2024-12-18,6,Critical,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,False,1,closed
+INC-2026-000131,Slip and Fall,2025-06-20,2025-06-20,0,Severe,"Slipped on wet floor in grocery store, injured back.",Public Space,True,1,verified
+INC-2026-000132,Vandalism,2024-10-18,2024-10-18,0,Moderate,Rear-ended at traffic light intersection during rush hour.,Workplace,False,1,verified
+INC-2026-000133,Natural Disaster,2024-05-15,2024-05-30,15,Critical,Hail damage to vehicle and property during severe weather.,Residence,True,2,under_investigation
+INC-2026-000134,Vandalism,2025-01-17,2025-01-18,1,Minor,Hit by uninsured driver while parked at shopping center.,Commercial Property,True,2,verified
+INC-2026-000135,Work Injury,2025-07-04,2025-07-11,7,Minor,Pedestrian struck by vehicle at crosswalk.,Residence,True,0,verified
+INC-2026-000136,Vehicle Collision,2024-12-30,2024-12-30,0,Severe,"Fell down stairs at commercial building, knee injury.",Parking Lot,True,1,under_investigation
+INC-2026-000137,Work Injury,2024-01-25,2024-01-30,5,Minor,"Burglar alarm triggered, window broken, items missing.",Workplace,True,0,verified
+INC-2026-000138,Medical Injury,2024-04-13,2024-04-15,2,Moderate,Water pipe burst causing flooding in basement.,Residence,True,3,under_investigation
+INC-2026-000139,Theft,2024-12-30,2025-01-02,3,Moderate,Multi-vehicle pile-up on highway during fog.,Parking Lot,True,2,reported
+INC-2026-000140,Vehicle Collision,2024-12-11,2024-12-14,3,Minor,Hail damage to vehicle and property during severe weather.,Residence,True,1,verified
+INC-2026-000141,Medical Injury,2024-10-15,2024-10-20,5,Minor,Multi-vehicle pile-up on highway during fog.,Workplace,False,1,closed
+INC-2026-000142,Vehicle Collision,2024-08-13,2024-08-22,9,Minor,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,False,2,under_investigation
+INC-2026-000143,Vehicle Collision,2025-05-20,2025-05-22,2,Severe,Pedestrian struck by vehicle at crosswalk.,Parking Lot,True,2,reported
+INC-2026-000144,Natural Disaster,2024-05-02,2024-05-03,1,Minor,Workplace machinery malfunction caused hand injury.,Public Space,True,5,under_investigation
+INC-2026-000145,Property Damage,2024-12-03,2024-12-05,2,Minor,"Roof damaged during hurricane, interior water damage.",Residence,False,2,verified
+INC-2026-000146,Vehicle Collision,2024-06-23,2024-06-26,3,Moderate,Multi-vehicle pile-up on highway during fog.,Parking Lot,True,0,verified
+INC-2026-000147,Vehicle Collision,2024-08-07,2024-08-10,3,Minor,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,False,3,under_investigation
+INC-2026-000148,Slip and Fall,2024-05-29,2024-06-01,3,Critical,"Roof damaged during hurricane, interior water damage.",Workplace,False,1,verified
+INC-2026-000149,Natural Disaster,2024-04-27,2024-05-08,11,Moderate,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,0,under_investigation
+INC-2026-000150,Vandalism,2025-02-27,2025-02-27,0,Moderate,Water pipe burst causing flooding in basement.,Public Space,False,3,under_investigation
+INC-2026-000151,Medical Injury,2025-09-08,2025-09-09,1,Moderate,Pedestrian struck by vehicle at crosswalk.,Road/Highway,False,1,under_investigation
+INC-2026-000152,Natural Disaster,2025-10-11,2025-10-12,1,Moderate,"Roof damaged during hurricane, interior water damage.",Commercial Property,True,1,reported
+INC-2026-000153,Water Damage,2025-03-04,2025-03-16,12,Moderate,Workplace machinery malfunction caused hand injury.,Parking Lot,True,1,under_investigation
+INC-2026-000154,Medical Injury,2024-12-13,2024-12-15,2,Critical,Tree fell on property during severe thunderstorm.,Public Space,False,1,reported
+INC-2026-000155,Natural Disaster,2024-01-04,2024-01-06,2,Moderate,Hail damage to vehicle and property during severe weather.,Public Space,True,2,reported
+INC-2026-000156,Work Injury,2024-05-19,2024-05-19,0,Minor,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,2,verified
+INC-2026-000157,Natural Disaster,2025-04-09,2025-04-12,3,Minor,Multi-vehicle pile-up on highway during fog.,Parking Lot,False,2,verified
+INC-2026-000158,Property Damage,2024-09-15,2024-10-01,16,Minor,"Roof damaged during hurricane, interior water damage.",Residence,False,0,verified
+INC-2026-000159,Property Damage,2024-05-12,2024-05-12,0,Severe,Multi-vehicle pile-up on highway during fog.,Public Space,True,2,reported
+INC-2026-000160,Property Damage,2025-01-23,2025-01-26,3,Minor,Workplace machinery malfunction caused hand injury.,Public Space,True,0,closed
+INC-2026-000161,Natural Disaster,2025-09-14,2025-09-15,1,Moderate,"Side collision at four-way stop, other driver ran sign.",Road/Highway,True,2,under_investigation
+INC-2026-000162,Natural Disaster,2025-08-21,2025-09-05,15,Minor,Hail damage to vehicle and property during severe weather.,Workplace,True,1,under_investigation
+INC-2026-000163,Fire,2024-07-02,2024-07-05,3,Severe,Hail damage to vehicle and property during severe weather.,Commercial Property,True,2,closed
+INC-2026-000164,Slip and Fall,2024-05-17,2024-05-20,3,Severe,Multi-vehicle pile-up on highway during fog.,Road/Highway,True,2,verified
+INC-2026-000165,Vandalism,2024-11-24,2024-11-24,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Public Space,False,5,under_investigation
+INC-2026-000166,Vehicle Collision,2024-08-03,2024-08-08,5,Moderate,"Vehicle broken into, electronics and personal items stolen.",Road/Highway,True,3,under_investigation
+INC-2026-000167,Medical Injury,2024-03-29,2024-04-23,25,Minor,"Kitchen fire caused by electrical fault, significant damage.",Workplace,True,0,reported
+INC-2026-000168,Property Damage,2025-04-24,2025-04-29,5,Minor,"Fell down stairs at commercial building, knee injury.",Public Space,True,1,under_investigation
+INC-2026-000169,Fire,2024-09-14,2024-09-17,3,Moderate,Multi-vehicle pile-up on highway during fog.,Residence,True,1,under_investigation
+INC-2026-000170,Theft,2024-02-28,2024-02-28,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,True,0,under_investigation
+INC-2026-000171,Vandalism,2025-03-17,2025-03-25,8,Moderate,"Vehicle broken into, electronics and personal items stolen.",Residence,True,1,closed
+INC-2026-000172,Vehicle Collision,2025-08-30,2025-09-03,4,Minor,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,False,2,verified
+INC-2026-000173,Property Damage,2024-07-13,2024-07-16,3,Moderate,Rear-ended at traffic light intersection during rush hour.,Residence,True,2,reported
+INC-2026-000174,Theft,2024-12-05,2024-12-08,3,Minor,Pedestrian struck by vehicle at crosswalk.,Public Space,True,3,verified
+INC-2026-000175,Vehicle Collision,2024-05-05,2024-05-05,0,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,False,1,closed
+INC-2026-000176,Property Damage,2024-09-01,2024-09-01,0,Minor,Hit by uninsured driver while parked at shopping center.,Workplace,True,0,under_investigation
+INC-2026-000177,Property Damage,2024-07-29,2024-08-07,9,Severe,Multi-vehicle pile-up on highway during fog.,Parking Lot,False,2,closed
+INC-2026-000178,Water Damage,2024-08-24,2024-08-29,5,Moderate,Hail damage to vehicle and property during severe weather.,Residence,True,2,closed
+INC-2026-000179,Vandalism,2025-02-15,2025-02-15,0,Critical,Multi-vehicle pile-up on highway during fog.,Road/Highway,True,0,under_investigation
+INC-2026-000180,Theft,2025-02-20,2025-02-23,3,Moderate,Water pipe burst causing flooding in basement.,Workplace,True,2,verified
+INC-2026-000181,Medical Injury,2025-08-02,2025-08-02,0,Moderate,Tree fell on property during severe thunderstorm.,Workplace,True,2,under_investigation
+INC-2026-000182,Water Damage,2025-01-06,2025-01-09,3,Severe,Water pipe burst causing flooding in basement.,Residence,False,1,verified
+INC-2026-000183,Medical Injury,2025-04-02,2025-04-16,14,Minor,Hit by uninsured driver while parked at shopping center.,Residence,True,1,reported
+INC-2026-000184,Work Injury,2025-08-13,2025-08-16,3,Minor,Workplace machinery malfunction caused hand injury.,Residence,False,2,verified
+INC-2026-000185,Work Injury,2025-08-20,2025-08-22,2,Moderate,Hit by uninsured driver while parked at shopping center.,Workplace,True,1,reported
+INC-2026-000186,Natural Disaster,2024-12-03,2024-12-04,1,Severe,"Slipped on wet floor in grocery store, injured back.",Workplace,False,0,under_investigation
+INC-2026-000187,Medical Injury,2025-05-10,2025-05-11,1,Critical,Tree fell on property during severe thunderstorm.,Parking Lot,True,3,under_investigation
+INC-2026-000188,Vandalism,2024-08-18,2024-08-29,11,Moderate,Workplace machinery malfunction caused hand injury.,Workplace,True,2,under_investigation
+INC-2026-000189,Work Injury,2024-07-19,2024-07-31,12,Minor,Rear-ended at traffic light intersection during rush hour.,Residence,False,2,verified
+INC-2026-000190,Vandalism,2024-05-19,2024-05-21,2,Moderate,Hit by uninsured driver while parked at shopping center.,Road/Highway,True,0,reported
+INC-2026-000191,Theft,2025-04-22,2025-05-11,19,Severe,Hail damage to vehicle and property during severe weather.,Commercial Property,False,4,under_investigation
+INC-2026-000192,Slip and Fall,2024-10-18,2024-10-21,3,Moderate,Rear-ended at traffic light intersection during rush hour.,Commercial Property,False,1,verified
+INC-2026-000193,Slip and Fall,2025-02-11,2025-02-12,1,Moderate,Water pipe burst causing flooding in basement.,Residence,False,1,under_investigation
+INC-2026-000194,Natural Disaster,2024-07-27,2024-08-06,10,Minor,Multi-vehicle pile-up on highway during fog.,Public Space,True,2,under_investigation
+INC-2026-000195,Property Damage,2024-08-31,2024-09-05,5,Critical,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,False,2,verified
+INC-2026-000196,Property Damage,2024-09-24,2024-09-24,0,Moderate,Tree fell on property during severe thunderstorm.,Workplace,True,5,verified
+INC-2026-000197,Fire,2024-06-10,2024-06-18,8,Moderate,Water pipe burst causing flooding in basement.,Workplace,True,2,verified
+INC-2026-000198,Slip and Fall,2025-03-28,2025-03-28,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Residence,False,1,verified
+INC-2026-000199,Vandalism,2024-06-27,2024-06-27,0,Severe,"Vehicle broken into, electronics and personal items stolen.",Public Space,True,1,reported
+INC-2026-000200,Vehicle Collision,2024-02-10,2024-02-13,3,Minor,"Slipped on wet floor in grocery store, injured back.",Road/Highway,False,2,verified
+INC-2026-000201,Water Damage,2024-01-24,2024-02-01,8,Minor,Tree fell on property during severe thunderstorm.,Road/Highway,False,4,reported
+INC-2026-000202,Natural Disaster,2025-03-19,2025-03-26,7,Minor,"Roof damaged during hurricane, interior water damage.",Workplace,True,0,under_investigation
+INC-2026-000203,Work Injury,2024-09-15,2024-09-16,1,Severe,Pedestrian struck by vehicle at crosswalk.,Parking Lot,True,2,verified
+INC-2026-000204,Slip and Fall,2025-08-04,2025-08-06,2,Moderate,Water pipe burst causing flooding in basement.,Commercial Property,False,4,verified
+INC-2026-000205,Water Damage,2024-06-21,2024-06-29,8,Moderate,Workplace machinery malfunction caused hand injury.,Commercial Property,True,2,reported
+INC-2026-000206,Vehicle Collision,2024-08-28,2024-08-28,0,Minor,Hit by uninsured driver while parked at shopping center.,Commercial Property,False,0,verified
+INC-2026-000207,Water Damage,2025-01-21,2025-01-22,1,Moderate,"Fell down stairs at commercial building, knee injury.",Road/Highway,True,2,verified
+INC-2026-000208,Fire,2025-06-26,2025-06-29,3,Minor,"Side collision at four-way stop, other driver ran sign.",Road/Highway,False,1,under_investigation
+INC-2026-000209,Property Damage,2024-09-21,2024-10-11,20,Severe,Water pipe burst causing flooding in basement.,Parking Lot,True,3,verified
+INC-2026-000210,Medical Injury,2025-02-08,2025-02-15,7,Minor,Multi-vehicle pile-up on highway during fog.,Residence,True,1,verified
+INC-2026-000211,Medical Injury,2024-06-10,2024-06-11,1,Moderate,Pedestrian struck by vehicle at crosswalk.,Workplace,True,1,reported
+INC-2026-000212,Vehicle Collision,2024-07-15,2024-07-16,1,Moderate,"Slipped on wet floor in grocery store, injured back.",Residence,True,2,closed
+INC-2026-000213,Vehicle Collision,2025-01-05,2025-01-07,2,Minor,"Side collision at four-way stop, other driver ran sign.",Road/Highway,True,0,verified
+INC-2026-000214,Vandalism,2024-12-05,2024-12-05,0,Minor,Multi-vehicle pile-up on highway during fog.,Commercial Property,True,1,verified
+INC-2026-000215,Work Injury,2024-07-22,2024-07-23,1,Moderate,Water pipe burst causing flooding in basement.,Road/Highway,False,1,verified
+INC-2026-000216,Theft,2025-06-24,2025-06-28,4,Moderate,Tree fell on property during severe thunderstorm.,Commercial Property,False,1,under_investigation
+INC-2026-000217,Medical Injury,2024-11-28,2024-11-30,2,Minor,"Roof damaged during hurricane, interior water damage.",Parking Lot,True,1,under_investigation
+INC-2026-000218,Water Damage,2024-07-28,2024-07-28,0,Minor,Workplace machinery malfunction caused hand injury.,Workplace,True,3,reported
+INC-2026-000219,Water Damage,2025-04-25,2025-05-04,9,Minor,"Vehicle broken into, electronics and personal items stolen.",Road/Highway,True,2,verified
+INC-2026-000220,Theft,2024-03-04,2024-03-05,1,Critical,"Side collision at four-way stop, other driver ran sign.",Residence,False,3,under_investigation
+INC-2026-000221,Theft,2025-07-03,2025-07-07,4,Moderate,Workplace machinery malfunction caused hand injury.,Commercial Property,False,4,under_investigation
+INC-2026-000222,Medical Injury,2025-06-20,2025-06-28,8,Critical,Hit by uninsured driver while parked at shopping center.,Public Space,True,1,under_investigation
+INC-2026-000223,Water Damage,2024-10-22,2024-10-29,7,Minor,Workplace machinery malfunction caused hand injury.,Workplace,False,1,under_investigation
+INC-2026-000224,Medical Injury,2024-01-22,2024-02-18,27,Minor,Tree fell on property during severe thunderstorm.,Commercial Property,True,1,reported
+INC-2026-000225,Natural Disaster,2024-02-27,2024-02-28,1,Severe,"Burglar alarm triggered, window broken, items missing.",Parking Lot,True,1,reported
+INC-2026-000226,Vandalism,2025-03-29,2025-04-07,9,Minor,Workplace machinery malfunction caused hand injury.,Workplace,False,0,closed
+INC-2026-000227,Water Damage,2024-07-23,2024-07-29,6,Moderate,Rear-ended at traffic light intersection during rush hour.,Commercial Property,True,3,verified
+INC-2026-000228,Theft,2025-07-03,2025-07-05,2,Severe,"Roof damaged during hurricane, interior water damage.",Public Space,True,1,verified
+INC-2026-000229,Slip and Fall,2024-04-01,2024-04-03,2,Moderate,"Side collision at four-way stop, other driver ran sign.",Parking Lot,False,2,reported
+INC-2026-000230,Vehicle Collision,2025-07-14,2025-07-15,1,Moderate,"Side collision at four-way stop, other driver ran sign.",Residence,False,2,closed
+INC-2026-000231,Property Damage,2025-03-02,2025-03-09,7,Minor,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,1,reported
+INC-2026-000232,Vehicle Collision,2025-09-12,2025-10-07,25,Minor,Hail damage to vehicle and property during severe weather.,Public Space,True,2,reported
+INC-2026-000233,Medical Injury,2024-10-17,2024-10-19,2,Critical,Tree fell on property during severe thunderstorm.,Road/Highway,True,3,closed
+INC-2026-000234,Slip and Fall,2025-05-29,2025-05-31,2,Minor,Water pipe burst causing flooding in basement.,Parking Lot,True,1,verified
+INC-2026-000235,Fire,2024-04-26,2024-04-26,0,Moderate,"Slipped on wet floor in grocery store, injured back.",Commercial Property,False,1,verified
+INC-2026-000236,Slip and Fall,2024-06-27,2024-07-08,11,Minor,Pedestrian struck by vehicle at crosswalk.,Workplace,False,1,under_investigation
+INC-2026-000237,Vehicle Collision,2024-03-16,2024-04-02,17,Severe,Workplace machinery malfunction caused hand injury.,Public Space,False,0,under_investigation
+INC-2026-000238,Vehicle Collision,2024-05-20,2024-05-29,9,Critical,"Side collision at four-way stop, other driver ran sign.",Residence,False,1,verified
+INC-2026-000239,Natural Disaster,2024-09-23,2024-10-03,10,Moderate,Rear-ended at traffic light intersection during rush hour.,Workplace,False,1,under_investigation
+INC-2026-000240,Vehicle Collision,2025-01-25,2025-01-26,1,Minor,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,2,verified
+INC-2026-000241,Natural Disaster,2024-11-10,2024-11-14,4,Critical,"Burglar alarm triggered, window broken, items missing.",Parking Lot,False,1,reported
+INC-2026-000242,Natural Disaster,2025-03-14,2025-03-18,4,Severe,"Burglar alarm triggered, window broken, items missing.",Parking Lot,True,2,under_investigation
+INC-2026-000243,Water Damage,2024-06-08,2024-06-08,0,Moderate,Hail damage to vehicle and property during severe weather.,Commercial Property,True,3,under_investigation
+INC-2026-000244,Water Damage,2024-04-14,2024-04-19,5,Severe,Workplace machinery malfunction caused hand injury.,Road/Highway,True,2,closed
+INC-2026-000245,Slip and Fall,2024-10-01,2024-10-05,4,Severe,"Side collision at four-way stop, other driver ran sign.",Road/Highway,False,0,reported
+INC-2026-000246,Vehicle Collision,2025-02-21,2025-02-27,6,Minor,Multi-vehicle pile-up on highway during fog.,Workplace,False,1,reported
+INC-2026-000247,Slip and Fall,2024-09-12,2024-09-28,16,Minor,Hail damage to vehicle and property during severe weather.,Workplace,False,0,under_investigation
+INC-2026-000248,Vehicle Collision,2024-11-26,2024-12-04,8,Minor,Hit by uninsured driver while parked at shopping center.,Road/Highway,True,3,verified
+INC-2026-000249,Vehicle Collision,2024-10-05,2024-10-05,0,Minor,"Roof damaged during hurricane, interior water damage.",Commercial Property,True,4,verified
+INC-2026-000250,Vandalism,2025-08-29,2025-09-09,11,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,True,2,verified
+INC-2026-000251,Water Damage,2025-07-06,2025-07-08,2,Minor,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,False,0,reported
+INC-2026-000252,Natural Disaster,2024-01-02,2024-01-07,5,Severe,Hit by uninsured driver while parked at shopping center.,Residence,True,0,verified
+INC-2026-000253,Fire,2024-10-28,2024-11-06,9,Minor,Tree fell on property during severe thunderstorm.,Residence,True,2,reported
+INC-2026-000254,Natural Disaster,2024-05-01,2024-05-01,0,Moderate,"Kitchen fire caused by electrical fault, significant damage.",Residence,True,1,verified
+INC-2026-000255,Fire,2025-05-15,2025-05-16,1,Minor,Tree fell on property during severe thunderstorm.,Workplace,True,3,verified
+INC-2026-000256,Property Damage,2024-12-20,2024-12-22,2,Severe,"Roof damaged during hurricane, interior water damage.",Public Space,False,1,closed
+INC-2026-000257,Theft,2024-02-29,2024-02-29,0,Minor,Multi-vehicle pile-up on highway during fog.,Commercial Property,False,1,closed
+INC-2026-000258,Medical Injury,2024-08-24,2024-08-29,5,Moderate,Hail damage to vehicle and property during severe weather.,Public Space,False,4,under_investigation
+INC-2026-000259,Slip and Fall,2025-07-26,2025-07-30,4,Severe,Rear-ended at traffic light intersection during rush hour.,Commercial Property,True,0,under_investigation
+INC-2026-000260,Vehicle Collision,2025-09-09,2025-09-12,3,Moderate,Hit by uninsured driver while parked at shopping center.,Residence,False,2,under_investigation
+INC-2026-000261,Natural Disaster,2024-03-25,2024-03-25,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Public Space,True,3,closed
+INC-2026-000262,Natural Disaster,2024-10-27,2024-10-31,4,Critical,"Slipped on wet floor in grocery store, injured back.",Road/Highway,True,1,reported
+INC-2026-000263,Medical Injury,2024-06-21,2024-06-27,6,Severe,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,2,reported
+INC-2026-000264,Water Damage,2024-04-03,2024-04-03,0,Minor,"Side collision at four-way stop, other driver ran sign.",Parking Lot,True,1,under_investigation
+INC-2026-000265,Work Injury,2024-02-06,2024-02-09,3,Critical,Multi-vehicle pile-up on highway during fog.,Workplace,True,0,reported
+INC-2026-000266,Natural Disaster,2024-03-11,2024-03-12,1,Severe,"Slipped on wet floor in grocery store, injured back.",Residence,True,4,reported
+INC-2026-000267,Fire,2024-03-28,2024-03-30,2,Minor,Workplace machinery malfunction caused hand injury.,Public Space,False,3,verified
+INC-2026-000268,Theft,2024-08-29,2024-09-18,20,Minor,Hail damage to vehicle and property during severe weather.,Commercial Property,True,2,under_investigation
+INC-2026-000269,Work Injury,2024-02-01,2024-02-09,8,Moderate,Multi-vehicle pile-up on highway during fog.,Commercial Property,True,1,under_investigation
+INC-2026-000270,Medical Injury,2024-09-29,2024-10-02,3,Severe,Pedestrian struck by vehicle at crosswalk.,Commercial Property,False,3,verified
+INC-2026-000271,Property Damage,2024-03-04,2024-03-04,0,Minor,Pedestrian struck by vehicle at crosswalk.,Commercial Property,False,0,under_investigation
+INC-2026-000272,Vandalism,2024-04-19,2024-04-26,7,Minor,"Kitchen fire caused by electrical fault, significant damage.",Residence,False,1,closed
+INC-2026-000273,Property Damage,2024-11-02,2024-11-05,3,Minor,"Kitchen fire caused by electrical fault, significant damage.",Residence,True,1,reported
+INC-2026-000274,Natural Disaster,2025-03-07,2025-03-07,0,Minor,Workplace machinery malfunction caused hand injury.,Road/Highway,True,2,under_investigation
+INC-2026-000275,Work Injury,2025-01-28,2025-01-28,0,Minor,"Side collision at four-way stop, other driver ran sign.",Workplace,True,2,under_investigation
+INC-2026-000276,Vehicle Collision,2025-09-08,2025-09-11,3,Moderate,Hit by uninsured driver while parked at shopping center.,Public Space,True,0,under_investigation
+INC-2026-000277,Fire,2025-05-29,2025-06-06,8,Severe,"Slipped on wet floor in grocery store, injured back.",Commercial Property,False,1,verified
+INC-2026-000278,Slip and Fall,2024-09-27,2024-09-28,1,Moderate,"Slipped on wet floor in grocery store, injured back.",Public Space,False,0,reported
+INC-2026-000279,Work Injury,2025-08-01,2025-08-08,7,Critical,Tree fell on property during severe thunderstorm.,Parking Lot,True,0,under_investigation
+INC-2026-000280,Vehicle Collision,2024-03-14,2024-03-22,8,Minor,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,1,verified
+INC-2026-000281,Vandalism,2025-06-23,2025-06-23,0,Moderate,Pedestrian struck by vehicle at crosswalk.,Residence,True,1,closed
+INC-2026-000282,Theft,2024-03-29,2024-04-02,4,Moderate,Hail damage to vehicle and property during severe weather.,Public Space,False,0,closed
+INC-2026-000283,Fire,2024-08-02,2024-08-02,0,Minor,Multi-vehicle pile-up on highway during fog.,Workplace,False,1,closed
+INC-2026-000284,Theft,2025-08-02,2025-08-12,10,Moderate,Hail damage to vehicle and property during severe weather.,Public Space,True,1,closed
+INC-2026-000285,Vehicle Collision,2024-08-24,2024-09-03,10,Minor,Rear-ended at traffic light intersection during rush hour.,Parking Lot,True,3,closed
+INC-2026-000286,Slip and Fall,2025-09-15,2025-09-19,4,Moderate,"Vehicle broken into, electronics and personal items stolen.",Road/Highway,True,2,under_investigation
+INC-2026-000287,Vandalism,2025-09-06,2025-09-13,7,Severe,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,0,verified
+INC-2026-000288,Natural Disaster,2025-07-16,2025-07-20,4,Moderate,"Side collision at four-way stop, other driver ran sign.",Public Space,False,0,verified
+INC-2026-000289,Water Damage,2025-09-28,2025-09-30,2,Critical,Hail damage to vehicle and property during severe weather.,Commercial Property,False,4,verified
+INC-2026-000290,Medical Injury,2025-05-12,2025-05-17,5,Severe,Pedestrian struck by vehicle at crosswalk.,Workplace,True,2,verified
+INC-2026-000291,Property Damage,2024-06-22,2024-06-26,4,Moderate,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,1,under_investigation
+INC-2026-000292,Natural Disaster,2025-09-19,2025-09-23,4,Severe,Tree fell on property during severe thunderstorm.,Parking Lot,True,3,reported
+INC-2026-000293,Property Damage,2025-08-01,2025-08-11,10,Severe,Water pipe burst causing flooding in basement.,Workplace,True,0,verified
+INC-2026-000294,Theft,2024-01-23,2024-01-23,0,Moderate,"Burglar alarm triggered, window broken, items missing.",Road/Highway,False,1,verified
+INC-2026-000295,Water Damage,2024-11-02,2024-11-03,1,Minor,Water pipe burst causing flooding in basement.,Residence,True,1,under_investigation
+INC-2026-000296,Slip and Fall,2024-08-14,2024-08-23,9,Severe,Multi-vehicle pile-up on highway during fog.,Workplace,True,0,under_investigation
+INC-2026-000297,Water Damage,2024-09-11,2024-09-13,2,Minor,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,True,1,reported
+INC-2026-000298,Property Damage,2024-10-23,2024-10-28,5,Severe,Tree fell on property during severe thunderstorm.,Road/Highway,True,0,closed
+INC-2026-000299,Medical Injury,2024-08-01,2024-08-04,3,Moderate,Hail damage to vehicle and property during severe weather.,Road/Highway,True,0,under_investigation
+INC-2026-000300,Natural Disaster,2024-11-11,2024-11-11,0,Minor,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,True,4,under_investigation
+INC-2026-000301,Medical Injury,2025-01-02,2025-01-04,2,Moderate,Tree fell on property during severe thunderstorm.,Workplace,True,1,verified
+INC-2026-000302,Work Injury,2024-04-18,2024-04-20,2,Moderate,"Vehicle broken into, electronics and personal items stolen.",Workplace,False,1,verified
+INC-2026-000303,Work Injury,2025-02-17,2025-02-20,3,Moderate,"Slipped on wet floor in grocery store, injured back.",Residence,True,0,closed
+INC-2026-000304,Slip and Fall,2025-08-22,2025-08-22,0,Critical,Workplace machinery malfunction caused hand injury.,Workplace,False,4,closed
+INC-2026-000305,Property Damage,2024-10-15,2024-10-21,6,Minor,"Side collision at four-way stop, other driver ran sign.",Parking Lot,True,1,closed
+INC-2026-000306,Work Injury,2024-11-15,2024-11-16,1,Minor,"Kitchen fire caused by electrical fault, significant damage.",Commercial Property,True,1,verified
+INC-2026-000307,Slip and Fall,2025-01-17,2025-01-18,1,Minor,Water pipe burst causing flooding in basement.,Residence,True,0,reported
+INC-2026-000308,Natural Disaster,2025-08-16,2025-08-16,0,Severe,"Fell down stairs at commercial building, knee injury.",Road/Highway,True,2,verified
+INC-2026-000309,Slip and Fall,2024-08-29,2024-08-31,2,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,True,2,reported
+INC-2026-000310,Water Damage,2024-12-28,2024-12-29,1,Severe,Workplace machinery malfunction caused hand injury.,Commercial Property,False,3,closed
+INC-2026-000311,Work Injury,2025-05-26,2025-06-12,17,Minor,"Side collision at four-way stop, other driver ran sign.",Commercial Property,False,1,verified
+INC-2026-000312,Water Damage,2025-04-05,2025-04-11,6,Minor,Tree fell on property during severe thunderstorm.,Parking Lot,True,1,under_investigation
+INC-2026-000313,Property Damage,2024-04-17,2024-04-21,4,Moderate,Multi-vehicle pile-up on highway during fog.,Workplace,True,0,reported
+INC-2026-000314,Property Damage,2024-05-11,2024-05-17,6,Critical,Multi-vehicle pile-up on highway during fog.,Commercial Property,True,2,reported
+INC-2026-000315,Vandalism,2025-02-22,2025-02-24,2,Minor,"Vehicle broken into, electronics and personal items stolen.",Public Space,True,4,closed
+INC-2026-000316,Work Injury,2025-07-03,2025-07-05,2,Severe,Tree fell on property during severe thunderstorm.,Residence,True,0,verified
+INC-2026-000317,Natural Disaster,2025-04-27,2025-04-28,1,Moderate,"Side collision at four-way stop, other driver ran sign.",Commercial Property,False,0,reported
+INC-2026-000318,Theft,2025-07-16,2025-07-17,1,Minor,Hit by uninsured driver while parked at shopping center.,Workplace,False,1,verified
+INC-2026-000319,Vehicle Collision,2024-11-28,2024-12-03,5,Moderate,"Burglar alarm triggered, window broken, items missing.",Commercial Property,False,2,reported
+INC-2026-000320,Fire,2024-05-11,2024-05-12,1,Minor,Workplace machinery malfunction caused hand injury.,Parking Lot,False,3,reported
+INC-2026-000321,Fire,2025-04-13,2025-04-29,16,Minor,"Roof damaged during hurricane, interior water damage.",Workplace,True,3,under_investigation
+INC-2026-000322,Medical Injury,2025-01-28,2025-02-02,5,Minor,"Roof damaged during hurricane, interior water damage.",Road/Highway,True,1,closed
+INC-2026-000323,Theft,2025-01-11,2025-01-11,0,Moderate,"Vehicle broken into, electronics and personal items stolen.",Workplace,True,2,verified
+INC-2026-000324,Vandalism,2024-05-06,2024-05-10,4,Critical,"Roof damaged during hurricane, interior water damage.",Commercial Property,True,2,verified
+INC-2026-000325,Fire,2025-09-22,2025-10-16,24,Severe,Pedestrian struck by vehicle at crosswalk.,Parking Lot,False,1,verified
+INC-2026-000326,Theft,2025-05-26,2025-06-07,12,Minor,Multi-vehicle pile-up on highway during fog.,Workplace,False,1,closed
+INC-2026-000327,Work Injury,2025-07-21,2025-07-21,0,Moderate,"Fell down stairs at commercial building, knee injury.",Public Space,True,2,reported
+INC-2026-000328,Water Damage,2025-06-19,2025-06-20,1,Minor,Hit by uninsured driver while parked at shopping center.,Commercial Property,False,1,reported
+INC-2026-000329,Work Injury,2025-07-12,2025-07-17,5,Moderate,Hail damage to vehicle and property during severe weather.,Parking Lot,False,1,under_investigation
+INC-2026-000330,Slip and Fall,2025-08-03,2025-08-09,6,Moderate,Water pipe burst causing flooding in basement.,Residence,False,0,under_investigation
+INC-2026-000331,Theft,2024-07-22,2024-08-05,14,Minor,"Side collision at four-way stop, other driver ran sign.",Residence,True,4,verified
+INC-2026-000332,Fire,2024-11-26,2024-12-02,6,Moderate,Hit by uninsured driver while parked at shopping center.,Parking Lot,True,3,reported
+INC-2026-000333,Slip and Fall,2024-12-08,2024-12-18,10,Moderate,Hail damage to vehicle and property during severe weather.,Workplace,False,5,verified
+INC-2026-000334,Fire,2025-06-01,2025-06-01,0,Minor,"Burglar alarm triggered, window broken, items missing.",Public Space,True,4,reported
+INC-2026-000335,Medical Injury,2024-10-07,2024-10-10,3,Minor,Pedestrian struck by vehicle at crosswalk.,Public Space,False,0,reported
+INC-2026-000336,Property Damage,2024-01-30,2024-02-23,24,Minor,Pedestrian struck by vehicle at crosswalk.,Workplace,True,1,reported
+INC-2026-000337,Work Injury,2024-03-24,2024-03-25,1,Critical,"Vehicle broken into, electronics and personal items stolen.",Commercial Property,True,2,verified
+INC-2026-000338,Slip and Fall,2025-08-16,2025-08-19,3,Minor,Pedestrian struck by vehicle at crosswalk.,Commercial Property,False,0,verified
+INC-2026-000339,Work Injury,2025-03-11,2025-03-12,1,Minor,Workplace machinery malfunction caused hand injury.,Commercial Property,True,2,reported
+INC-2026-000340,Natural Disaster,2024-05-18,2024-05-20,2,Severe,"Vehicle broken into, electronics and personal items stolen.",Workplace,False,0,under_investigation
+INC-2026-000341,Theft,2024-12-07,2024-12-18,11,Critical,"Roof damaged during hurricane, interior water damage.",Workplace,True,1,under_investigation
+INC-2026-000342,Theft,2024-03-20,2024-03-23,3,Minor,Hail damage to vehicle and property during severe weather.,Parking Lot,True,5,under_investigation
+INC-2026-000343,Property Damage,2024-09-04,2024-09-07,3,Severe,"Burglar alarm triggered, window broken, items missing.",Public Space,False,0,closed
+INC-2026-000344,Work Injury,2024-02-08,2024-02-08,0,Critical,"Slipped on wet floor in grocery store, injured back.",Commercial Property,True,1,verified
+INC-2026-000345,Work Injury,2025-01-09,2025-01-11,2,Minor,"Roof damaged during hurricane, interior water damage.",Road/Highway,True,0,verified
+INC-2026-000346,Slip and Fall,2025-01-24,2025-01-24,0,Minor,"Roof damaged during hurricane, interior water damage.",Commercial Property,True,0,reported
+INC-2026-000347,Property Damage,2024-09-16,2024-09-16,0,Severe,"Kitchen fire caused by electrical fault, significant damage.",Commercial Property,True,2,reported
+INC-2026-000348,Fire,2024-10-14,2024-10-17,3,Critical,"Slipped on wet floor in grocery store, injured back.",Parking Lot,True,1,under_investigation
+INC-2026-000349,Work Injury,2024-04-10,2024-04-17,7,Severe,Multi-vehicle pile-up on highway during fog.,Residence,False,2,closed
+INC-2026-000350,Medical Injury,2024-07-24,2024-07-25,1,Minor,Tree fell on property during severe thunderstorm.,Parking Lot,False,0,under_investigation
+INC-2026-000351,Vandalism,2024-02-14,2024-02-16,2,Moderate,Water pipe burst causing flooding in basement.,Road/Highway,True,2,verified
+INC-2026-000352,Water Damage,2025-07-28,2025-08-02,5,Minor,Pedestrian struck by vehicle at crosswalk.,Road/Highway,False,2,verified
+INC-2026-000353,Slip and Fall,2025-03-03,2025-03-09,6,Critical,Multi-vehicle pile-up on highway during fog.,Road/Highway,True,4,reported
+INC-2026-000354,Slip and Fall,2025-05-21,2025-05-26,5,Severe,Multi-vehicle pile-up on highway during fog.,Road/Highway,False,1,verified
+INC-2026-000355,Vehicle Collision,2025-07-08,2025-07-09,1,Minor,Hail damage to vehicle and property during severe weather.,Public Space,True,1,verified
+INC-2026-000356,Vandalism,2024-09-03,2024-09-08,5,Moderate,Workplace machinery malfunction caused hand injury.,Road/Highway,True,2,reported
+INC-2026-000357,Work Injury,2024-06-12,2024-06-17,5,Moderate,"Kitchen fire caused by electrical fault, significant damage.",Parking Lot,True,3,reported
+INC-2026-000358,Property Damage,2024-02-01,2024-02-03,2,Minor,Multi-vehicle pile-up on highway during fog.,Public Space,True,1,under_investigation
+INC-2026-000359,Natural Disaster,2024-02-08,2024-02-11,3,Severe,Tree fell on property during severe thunderstorm.,Residence,True,1,verified
+INC-2026-000360,Vehicle Collision,2025-04-29,2025-05-01,2,Moderate,"Roof damaged during hurricane, interior water damage.",Commercial Property,False,0,closed
+INC-2026-000361,Fire,2025-08-20,2025-08-20,0,Severe,Tree fell on property during severe thunderstorm.,Public Space,True,2,under_investigation
+INC-2026-000362,Water Damage,2024-06-14,2024-06-18,4,Moderate,Hail damage to vehicle and property during severe weather.,Parking Lot,True,2,verified
+INC-2026-000363,Theft,2025-07-05,2025-07-05,0,Minor,"Slipped on wet floor in grocery store, injured back.",Parking Lot,True,2,closed
+INC-2026-000364,Work Injury,2024-10-16,2024-11-05,20,Moderate,"Vehicle broken into, electronics and personal items stolen.",Residence,False,3,under_investigation
+INC-2026-000365,Theft,2025-07-07,2025-07-09,2,Moderate,Workplace machinery malfunction caused hand injury.,Public Space,False,1,verified
+INC-2026-000366,Natural Disaster,2024-03-25,2024-03-30,5,Minor,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,2,under_investigation
+INC-2026-000367,Water Damage,2024-07-24,2024-08-04,11,Moderate,Water pipe burst causing flooding in basement.,Workplace,False,3,reported
+INC-2026-000368,Theft,2024-10-19,2024-10-24,5,Critical,"Roof damaged during hurricane, interior water damage.",Residence,False,1,verified
+INC-2026-000369,Fire,2025-05-05,2025-05-07,2,Critical,Water pipe burst causing flooding in basement.,Parking Lot,True,4,verified
+INC-2026-000370,Medical Injury,2025-09-17,2025-09-22,5,Severe,"Burglar alarm triggered, window broken, items missing.",Public Space,True,0,closed
+INC-2026-000371,Vandalism,2024-02-02,2024-02-02,0,Severe,Workplace machinery malfunction caused hand injury.,Parking Lot,False,0,under_investigation
+INC-2026-000372,Slip and Fall,2024-08-24,2024-08-30,6,Severe,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,1,verified
+INC-2026-000373,Slip and Fall,2025-07-20,2025-07-20,0,Minor,"Burglar alarm triggered, window broken, items missing.",Parking Lot,True,2,verified
+INC-2026-000374,Work Injury,2024-07-27,2024-07-28,1,Moderate,Hail damage to vehicle and property during severe weather.,Residence,True,1,verified
+INC-2026-000375,Fire,2025-05-24,2025-05-25,1,Moderate,Workplace machinery malfunction caused hand injury.,Residence,False,1,under_investigation
+INC-2026-000376,Slip and Fall,2024-02-16,2024-02-20,4,Minor,Pedestrian struck by vehicle at crosswalk.,Workplace,True,1,under_investigation
+INC-2026-000377,Slip and Fall,2024-06-15,2024-06-15,0,Moderate,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,False,1,closed
+INC-2026-000378,Theft,2024-01-06,2024-01-07,1,Severe,"Kitchen fire caused by electrical fault, significant damage.",Commercial Property,False,2,closed
+INC-2026-000379,Vehicle Collision,2024-12-27,2025-01-07,11,Moderate,Rear-ended at traffic light intersection during rush hour.,Road/Highway,True,0,verified
+INC-2026-000380,Water Damage,2025-05-27,2025-05-29,2,Moderate,Hail damage to vehicle and property during severe weather.,Road/Highway,True,1,reported
+INC-2026-000381,Vandalism,2025-01-20,2025-01-21,1,Moderate,Pedestrian struck by vehicle at crosswalk.,Public Space,False,0,under_investigation
+INC-2026-000382,Slip and Fall,2024-01-11,2024-01-12,1,Moderate,"Burglar alarm triggered, window broken, items missing.",Residence,False,1,verified
+INC-2026-000383,Work Injury,2024-01-08,2024-01-13,5,Moderate,Rear-ended at traffic light intersection during rush hour.,Parking Lot,True,1,verified
+INC-2026-000384,Theft,2025-07-22,2025-07-26,4,Minor,Water pipe burst causing flooding in basement.,Workplace,True,1,under_investigation
+INC-2026-000385,Vehicle Collision,2025-10-07,2025-10-15,8,Severe,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,3,closed
+INC-2026-000386,Vandalism,2024-08-13,2024-08-13,0,Minor,Hit by uninsured driver while parked at shopping center.,Public Space,False,2,verified
+INC-2026-000387,Vehicle Collision,2025-07-09,2025-07-25,16,Moderate,"Slipped on wet floor in grocery store, injured back.",Road/Highway,False,2,closed
+INC-2026-000388,Slip and Fall,2025-09-19,2025-09-19,0,Critical,Hit by uninsured driver while parked at shopping center.,Road/Highway,True,1,under_investigation
+INC-2026-000389,Natural Disaster,2024-06-10,2024-06-18,8,Minor,"Side collision at four-way stop, other driver ran sign.",Commercial Property,True,2,closed
+INC-2026-000390,Natural Disaster,2025-07-04,2025-07-09,5,Moderate,Workplace machinery malfunction caused hand injury.,Public Space,False,4,verified
+INC-2026-000391,Work Injury,2025-07-18,2025-07-30,12,Moderate,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,1,closed
+INC-2026-000392,Theft,2025-07-30,2025-08-05,6,Minor,"Vehicle broken into, electronics and personal items stolen.",Workplace,True,0,verified
+INC-2026-000393,Property Damage,2024-05-14,2024-05-17,3,Critical,Hit by uninsured driver while parked at shopping center.,Workplace,True,3,verified
+INC-2026-000394,Theft,2024-01-26,2024-01-27,1,Minor,"Burglar alarm triggered, window broken, items missing.",Parking Lot,True,2,under_investigation
+INC-2026-000395,Vehicle Collision,2024-01-13,2024-01-15,2,Moderate,Hail damage to vehicle and property during severe weather.,Parking Lot,True,0,under_investigation
+INC-2026-000396,Property Damage,2025-04-06,2025-04-19,13,Minor,"Fell down stairs at commercial building, knee injury.",Road/Highway,False,2,verified
+INC-2026-000397,Natural Disaster,2025-08-27,2025-09-01,5,Moderate,"Side collision at four-way stop, other driver ran sign.",Workplace,True,4,under_investigation
+INC-2026-000398,Vehicle Collision,2024-06-25,2024-06-26,1,Critical,Pedestrian struck by vehicle at crosswalk.,Workplace,True,1,closed
+INC-2026-000399,Theft,2025-07-11,2025-07-16,5,Minor,"Fell down stairs at commercial building, knee injury.",Commercial Property,True,0,under_investigation
+INC-2026-000400,Work Injury,2025-09-09,2025-09-17,8,Moderate,Workplace machinery malfunction caused hand injury.,Residence,True,2,under_investigation
+INC-2026-000401,Work Injury,2024-02-01,2024-02-02,1,Minor,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,False,2,under_investigation
+INC-2026-000402,Fire,2024-07-21,2024-07-24,3,Minor,"Kitchen fire caused by electrical fault, significant damage.",Workplace,True,0,verified
+INC-2026-000403,Theft,2024-01-07,2024-01-10,3,Moderate,"Fell down stairs at commercial building, knee injury.",Parking Lot,True,2,verified
+INC-2026-000404,Natural Disaster,2025-05-08,2025-05-08,0,Severe,Rear-ended at traffic light intersection during rush hour.,Workplace,True,0,under_investigation
+INC-2026-000405,Work Injury,2024-07-20,2024-07-21,1,Moderate,"Vehicle broken into, electronics and personal items stolen.",Public Space,False,1,closed
+INC-2026-000406,Property Damage,2024-05-15,2024-05-17,2,Minor,"Side collision at four-way stop, other driver ran sign.",Commercial Property,True,1,under_investigation
+INC-2026-000407,Water Damage,2024-03-02,2024-03-02,0,Moderate,Hail damage to vehicle and property during severe weather.,Road/Highway,False,3,under_investigation
+INC-2026-000408,Fire,2025-06-29,2025-07-03,4,Moderate,Water pipe burst causing flooding in basement.,Commercial Property,True,1,verified
+INC-2026-000409,Fire,2024-11-17,2024-11-19,2,Minor,"Slipped on wet floor in grocery store, injured back.",Public Space,True,1,under_investigation
+INC-2026-000410,Property Damage,2024-08-26,2024-08-31,5,Severe,"Kitchen fire caused by electrical fault, significant damage.",Public Space,True,2,under_investigation
+INC-2026-000411,Fire,2024-12-03,2024-12-22,19,Minor,"Vehicle broken into, electronics and personal items stolen.",Parking Lot,False,2,reported
+INC-2026-000412,Vandalism,2025-06-30,2025-07-04,4,Moderate,Water pipe burst causing flooding in basement.,Parking Lot,True,2,under_investigation
+INC-2026-000413,Natural Disaster,2024-07-28,2024-08-06,9,Moderate,"Fell down stairs at commercial building, knee injury.",Public Space,True,1,closed
+INC-2026-000414,Medical Injury,2024-03-24,2024-03-24,0,Critical,Multi-vehicle pile-up on highway during fog.,Parking Lot,True,4,under_investigation
+INC-2026-000415,Medical Injury,2024-12-14,2024-12-23,9,Minor,Multi-vehicle pile-up on highway during fog.,Workplace,False,1,verified
+INC-2026-000416,Water Damage,2024-06-11,2024-06-16,5,Minor,Water pipe burst causing flooding in basement.,Road/Highway,True,2,verified
+INC-2026-000417,Medical Injury,2024-12-18,2024-12-24,6,Minor,Water pipe burst causing flooding in basement.,Workplace,False,3,under_investigation
+INC-2026-000418,Vehicle Collision,2025-03-07,2025-03-09,2,Critical,Hail damage to vehicle and property during severe weather.,Public Space,True,0,closed
+INC-2026-000419,Work Injury,2025-04-29,2025-05-14,15,Minor,"Kitchen fire caused by electrical fault, significant damage.",Road/Highway,True,2,verified
+INC-2026-000420,Medical Injury,2024-07-30,2024-08-01,2,Severe,Multi-vehicle pile-up on highway during fog.,Public Space,False,4,under_investigation
+INC-2026-000421,Theft,2025-09-19,2025-09-19,0,Minor,Hit by uninsured driver while parked at shopping center.,Workplace,True,1,under_investigation
+INC-2026-000422,Work Injury,2025-05-15,2025-05-17,2,Minor,Tree fell on property during severe thunderstorm.,Residence,True,1,closed
+INC-2026-000423,Theft,2024-02-03,2024-02-07,4,Minor,Multi-vehicle pile-up on highway during fog.,Public Space,False,2,verified
+INC-2026-000424,Slip and Fall,2024-01-19,2024-01-19,0,Minor,"Burglar alarm triggered, window broken, items missing.",Road/Highway,True,0,under_investigation
+INC-2026-000425,Medical Injury,2025-02-26,2025-02-26,0,Moderate,Water pipe burst causing flooding in basement.,Workplace,True,1,verified
+INC-2026-000426,Vehicle Collision,2024-09-12,2024-09-20,8,Severe,Multi-vehicle pile-up on highway during fog.,Residence,False,1,verified
+INC-2026-000427,Fire,2024-03-06,2024-03-08,2,Moderate,Rear-ended at traffic light intersection during rush hour.,Residence,False,1,under_investigation
+INC-2026-000428,Slip and Fall,2024-02-06,2024-02-07,1,Minor,Tree fell on property during severe thunderstorm.,Residence,False,0,verified
+INC-2026-000429,Natural Disaster,2024-03-15,2024-03-18,3,Critical,Workplace machinery malfunction caused hand injury.,Parking Lot,True,1,verified
+INC-2026-000430,Vehicle Collision,2024-07-15,2024-07-18,3,Minor,"Slipped on wet floor in grocery store, injured back.",Parking Lot,True,4,reported
+INC-2026-000431,Medical Injury,2024-06-27,2024-07-07,10,Critical,Tree fell on property during severe thunderstorm.,Residence,False,3,under_investigation
+INC-2026-000432,Work Injury,2024-01-23,2024-01-30,7,Moderate,"Side collision at four-way stop, other driver ran sign.",Road/Highway,True,2,closed
+INC-2026-000433,Vehicle Collision,2024-04-25,2024-04-27,2,Severe,Rear-ended at traffic light intersection during rush hour.,Road/Highway,False,1,under_investigation
+INC-2026-000434,Vehicle Collision,2025-08-23,2025-08-28,5,Moderate,Rear-ended at traffic light intersection during rush hour.,Workplace,True,2,verified
+INC-2026-000435,Property Damage,2025-08-29,2025-08-29,0,Minor,Water pipe burst causing flooding in basement.,Residence,False,2,closed
+INC-2026-000436,Theft,2024-08-04,2024-08-05,1,Critical,"Side collision at four-way stop, other driver ran sign.",Road/Highway,True,2,verified
+INC-2026-000437,Vehicle Collision,2025-04-13,2025-04-19,6,Moderate,"Burglar alarm triggered, window broken, items missing.",Workplace,True,1,reported
+INC-2026-000438,Work Injury,2025-04-28,2025-05-21,23,Severe,"Side collision at four-way stop, other driver ran sign.",Parking Lot,True,1,under_investigation
+INC-2026-000439,Slip and Fall,2024-05-07,2024-05-15,8,Minor,"Slipped on wet floor in grocery store, injured back.",Commercial Property,False,1,verified
+INC-2026-000440,Medical Injury,2024-08-27,2024-09-11,15,Moderate,"Fell down stairs at commercial building, knee injury.",Road/Highway,True,1,closed
+INC-2026-000441,Natural Disaster,2025-09-07,2025-09-07,0,Moderate,Pedestrian struck by vehicle at crosswalk.,Parking Lot,False,1,verified
+INC-2026-000442,Fire,2024-05-10,2024-05-12,2,Moderate,Hail damage to vehicle and property during severe weather.,Workplace,True,0,reported
+INC-2026-000443,Vehicle Collision,2025-03-13,2025-03-13,0,Moderate,"Roof damaged during hurricane, interior water damage.",Road/Highway,True,2,under_investigation
+INC-2026-000444,Theft,2024-04-18,2024-04-22,4,Moderate,Workplace machinery malfunction caused hand injury.,Workplace,False,2,under_investigation
+INC-2026-000445,Vandalism,2025-06-01,2025-06-03,2,Moderate,Workplace machinery malfunction caused hand injury.,Residence,False,1,under_investigation
+INC-2026-000446,Medical Injury,2024-04-03,2024-04-17,14,Minor,Rear-ended at traffic light intersection during rush hour.,Parking Lot,False,1,reported
+INC-2026-000447,Vehicle Collision,2024-09-15,2024-09-18,3,Minor,Water pipe burst causing flooding in basement.,Workplace,True,3,reported
+INC-2026-000448,Slip and Fall,2025-02-13,2025-02-25,12,Critical,Rear-ended at traffic light intersection during rush hour.,Parking Lot,False,1,under_investigation
+INC-2026-000449,Property Damage,2025-04-06,2025-04-18,12,Severe,Water pipe burst causing flooding in basement.,Commercial Property,True,3,closed
+INC-2026-000450,Natural Disaster,2025-09-04,2025-09-04,0,Moderate,"Burglar alarm triggered, window broken, items missing.",Road/Highway,True,3,under_investigation

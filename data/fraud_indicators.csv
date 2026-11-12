@@ -1,0 +1,11 @@
+indicator_id,entity_type,entity_id,network_id,indicator_type,severity,description,detected_date,status
+FI-000001,claimant,CLM-2026-000003,FNET-0001,shared_contact,High,"Shared phone: (555) 248-8134, Shared bank: BANK-869809350",2025-06-01,active
+FI-000002,claimant,CLM-2026-000072,FNET-0001,shared_contact,High,"Shared phone: (555) 248-8134, Shared bank: BANK-869809350",2025-06-01,active
+FI-000003,claimant,CLM-2026-000116,FNET-0001,shared_contact,High,"Shared phone: (555) 248-8134, Shared bank: BANK-869809350",2025-06-01,active
+FI-000004,claimant,CLM-2026-000109,FNET-0001,shared_contact,High,"Shared phone: (555) 248-8134, Shared bank: BANK-869809350",2025-06-01,active
+FI-000005,claimant,CLM-2026-000059,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active
+FI-000006,claimant,CLM-2026-000058,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active
+FI-000007,claimant,CLM-2026-000186,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active
+FI-000008,claimant,CLM-2026-000120,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active
+FI-000009,claimant,CLM-2026-000131,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active
+FI-000010,claimant,CLM-2026-000080,FNET-0002,shared_contact,High,"Shared phone: (555) 269-2381, Shared bank: BANK-537965178",2025-06-01,active

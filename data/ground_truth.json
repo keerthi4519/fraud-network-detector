@@ -1,0 +1,542 @@
+[
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000003",
+    "network_id":"FNET-0001",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 3 others in network FNET-0001"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000072",
+    "network_id":"FNET-0001",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 3 others in network FNET-0001"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000116",
+    "network_id":"FNET-0001",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 3 others in network FNET-0001"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000109",
+    "network_id":"FNET-0001",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 3 others in network FNET-0001"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000059",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000058",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000186",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000120",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000131",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000080",
+    "network_id":"FNET-0002",
+    "fraud_type":"shared_contact_network",
+    "is_fraud":true,
+    "confidence":0.85,
+    "description":"Claimant shares phone\/bank with 5 others in network FNET-0002"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000085",
+    "network_id":"BENIGN-0001",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000198",
+    "network_id":"BENIGN-0001",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000040",
+    "network_id":"BENIGN-0001",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000106",
+    "network_id":"BENIGN-0002",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000018",
+    "network_id":"BENIGN-0002",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000166",
+    "network_id":"BENIGN-0002",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000007",
+    "network_id":"BENIGN-0003",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000192",
+    "network_id":"BENIGN-0003",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000158",
+    "network_id":"BENIGN-0003",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000078",
+    "network_id":"BENIGN-0004",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000001",
+    "network_id":"BENIGN-0004",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000156",
+    "network_id":"BENIGN-0004",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000037",
+    "network_id":"BENIGN-0005",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000123",
+    "network_id":"BENIGN-0005",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000187",
+    "network_id":"BENIGN-0005",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000017",
+    "network_id":"BENIGN-0006",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000142",
+    "network_id":"BENIGN-0006",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000160",
+    "network_id":"BENIGN-0006",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000113",
+    "network_id":"BENIGN-0007",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000022",
+    "network_id":"BENIGN-0007",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000021",
+    "network_id":"BENIGN-0007",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000150",
+    "network_id":"BENIGN-0008",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000065",
+    "network_id":"BENIGN-0008",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000063",
+    "network_id":"BENIGN-0008",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000106",
+    "network_id":"BENIGN-0009",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000097",
+    "network_id":"BENIGN-0009",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000172",
+    "network_id":"BENIGN-0009",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000064",
+    "network_id":"BENIGN-0010",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000095",
+    "network_id":"BENIGN-0010",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000137",
+    "network_id":"BENIGN-0010",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000013",
+    "network_id":"BENIGN-0011",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000182",
+    "network_id":"BENIGN-0011",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000005",
+    "network_id":"BENIGN-0011",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000072",
+    "network_id":"BENIGN-0012",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000119",
+    "network_id":"BENIGN-0012",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000177",
+    "network_id":"BENIGN-0012",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000198",
+    "network_id":"BENIGN-0013",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000138",
+    "network_id":"BENIGN-0013",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000142",
+    "network_id":"BENIGN-0013",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000052",
+    "network_id":"BENIGN-0014",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000149",
+    "network_id":"BENIGN-0014",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000017",
+    "network_id":"BENIGN-0014",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000120",
+    "network_id":"BENIGN-0015",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000009",
+    "network_id":"BENIGN-0015",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000090",
+    "network_id":"BENIGN-0015",
+    "fraud_type":"benign_shared_household",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Legitimate family\/household sharing address - NOT fraud"
+  },
+  {
+    "entity_type":"claim",
+    "entity_id":"CLN-2026-000501",
+    "network_id":"EDGE-CASE-001",
+    "fraud_type":"orphan_claim",
+    "is_fraud":false,
+    "confidence":1.0,
+    "description":"Claim references nonexistent policy POL-2026-NONEXIST - data integrity issue"
+  },
+  {
+    "entity_type":"payment",
+    "entity_id":"PAY-2026-000001",
+    "network_id":"EDGE-CASE-002",
+    "fraud_type":"overpayment",
+    "is_fraud":true,
+    "confidence":0.95,
+    "description":"Payment amount 3136.25 exceeds 5x original 627.25"
+  },
+  {
+    "entity_type":"invoice",
+    "entity_id":"INV-PRV-DUP-000001",
+    "network_id":"EDGE-CASE-003",
+    "fraud_type":"duplicate_invoice",
+    "is_fraud":true,
+    "confidence":0.88,
+    "description":"Duplicate invoice submitted across different claims"
+  },
+  {
+    "entity_type":"relationship",
+    "entity_id":"HIDDEN-REL-001",
+    "network_id":"EDGE-CASE-004",
+    "fraud_type":"hidden_relationship",
+    "is_fraud":true,
+    "confidence":0.7,
+    "description":"Known relationship between CLM-2026-000001 and PRV-000001 not captured in edge table"
+  },
+  {
+    "entity_type":"claimant",
+    "entity_id":"CLM-2026-000050",
+    "network_id":"EDGE-CASE-005",
+    "fraud_type":"benign_shared_address",
+    "is_fraud":false,
+    "confidence":0.95,
+    "description":"Common apartment complex address shared by multiple unrelated claimants - NOT fraud"
+  }
+]

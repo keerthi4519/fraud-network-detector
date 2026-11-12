@@ -1,0 +1,61 @@
+entity_type,entity_id,network_id,fraud_type,is_fraud,confidence,description
+claimant,CLM-2026-000003,FNET-0001,shared_contact_network,True,0.85,Claimant shares phone/bank with 3 others in network FNET-0001
+claimant,CLM-2026-000072,FNET-0001,shared_contact_network,True,0.85,Claimant shares phone/bank with 3 others in network FNET-0001
+claimant,CLM-2026-000116,FNET-0001,shared_contact_network,True,0.85,Claimant shares phone/bank with 3 others in network FNET-0001
+claimant,CLM-2026-000109,FNET-0001,shared_contact_network,True,0.85,Claimant shares phone/bank with 3 others in network FNET-0001
+claimant,CLM-2026-000059,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000058,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000186,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000120,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000131,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000080,FNET-0002,shared_contact_network,True,0.85,Claimant shares phone/bank with 5 others in network FNET-0002
+claimant,CLM-2026-000085,BENIGN-0001,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000198,BENIGN-0001,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000040,BENIGN-0001,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000106,BENIGN-0002,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000018,BENIGN-0002,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000166,BENIGN-0002,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000007,BENIGN-0003,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000192,BENIGN-0003,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000158,BENIGN-0003,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000078,BENIGN-0004,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000001,BENIGN-0004,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000156,BENIGN-0004,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000037,BENIGN-0005,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000123,BENIGN-0005,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000187,BENIGN-0005,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000017,BENIGN-0006,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000142,BENIGN-0006,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000160,BENIGN-0006,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000113,BENIGN-0007,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000022,BENIGN-0007,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000021,BENIGN-0007,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000150,BENIGN-0008,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000065,BENIGN-0008,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000063,BENIGN-0008,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000106,BENIGN-0009,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000097,BENIGN-0009,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000172,BENIGN-0009,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000064,BENIGN-0010,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000095,BENIGN-0010,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000137,BENIGN-0010,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000013,BENIGN-0011,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000182,BENIGN-0011,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000005,BENIGN-0011,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000072,BENIGN-0012,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000119,BENIGN-0012,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000177,BENIGN-0012,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000198,BENIGN-0013,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000138,BENIGN-0013,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000142,BENIGN-0013,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000052,BENIGN-0014,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000149,BENIGN-0014,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000017,BENIGN-0014,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000120,BENIGN-0015,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000009,BENIGN-0015,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claimant,CLM-2026-000090,BENIGN-0015,benign_shared_household,False,0.95,Legitimate family/household sharing address - NOT fraud
+claim,CLN-2026-000501,EDGE-CASE-001,orphan_claim,False,1.0,Claim references nonexistent policy POL-2026-NONEXIST - data integrity issue
+payment,PAY-2026-000001,EDGE-CASE-002,overpayment,True,0.95,Payment amount 3136.25 exceeds 5x original 627.25
+invoice,INV-PRV-DUP-000001,EDGE-CASE-003,duplicate_invoice,True,0.88,Duplicate invoice submitted across different claims
+relationship,HIDDEN-REL-001,EDGE-CASE-004,hidden_relationship,True,0.7,Known relationship between CLM-2026-000001 and PRV-000001 not captured in edge table
+claimant,CLM-2026-000050,EDGE-CASE-005,benign_shared_address,False,0.95,Common apartment complex address shared by multiple unrelated claimants - NOT fraud
